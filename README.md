@@ -1,4 +1,4 @@
-# Dota2_-Exploratory_Data_Analysis_Prediction
+# Dota_2_Exploratory_Data_Analysis_and_Prediction
 
 ## 1. Dataset: 
 
