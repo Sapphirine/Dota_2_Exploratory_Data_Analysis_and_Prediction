@@ -1,8 +1,10 @@
 # Dota2_-Exploratory_Data_Analysis_Prediction
 
-Dataset: downloaded from https://www.kaggle.com/devinanzelmo/dota-2-matches, including hero_names.csv, player_ratings.csv, players.csv, test_play.csv, test_labels.csv, match.csv.
+1. Dataset: 
 
-Codes:
+downloaded from https://www.kaggle.com/devinanzelmo/dota-2-matches, including hero_names.csv, player_ratings.csv, players.csv, test_play.csv, test_labels.csv, match.csv.
+
+2. Codes:
 
 Data Cleaning.R attaches label indicating win or lost to the player data.
 
@@ -12,6 +14,6 @@ PredictionModelTrain.R trains a model for match outcome prediction in the above 
 
 SynergySuppressionMatrixCompute.R is used to compute the node file and edge files for the IBM System G Visualizer to run.
 
-Demo Videos:
+3. Demo Videos:
 
 Youtube websites: https://www.youtube.com/watch?v=TJCH4NnWR1I
