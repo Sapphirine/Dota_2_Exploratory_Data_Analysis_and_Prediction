@@ -14,4 +14,4 @@ SynergySuppressionMatrixCompute.R is used to compute the node file and edge file
 
 Demo Videos:
 
-Youtube websites: Demo 1: https://youtu.be/ihYsLbnUaSo Demo 2: https://youtu.be/KxULixNynWs
+Youtube websites: https://www.youtube.com/watch?v=TJCH4NnWR1I
